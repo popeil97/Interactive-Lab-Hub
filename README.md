@@ -11,3 +11,7 @@ Completed Labs for Alexander Popeil
 2. [Alexander Popeil's Lab 2](https://github.com/popeil97/IDD-Fa19-Lab2)
 
 3. [Alexander Popeil's Lab 3](https://github.com/popeil97/IDD-Fa19-Lab3)
+
+4. [Alexander Popeil's Lab 3](https://github.com/popeil97/IDD-Fa19-Lab4)
+
+5. [Alexander Popeil's Lab 3](https://github.com/popeil97/IDD-Fa19-Lab5)
